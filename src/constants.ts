@@ -1,13 +1,13 @@
-import project1 from './assets/images/bud1gotowy.jpeg';
-import project1Construction from './assets/images/bud1budowa.jpeg';
-import project2 from './assets/images/bud2budowa.jpeg';
-import project3 from './assets/images/bud3gotowy.jpeg';
-import project4 from './assets/images/bud4gotowy.jpeg';
-import project5 from './assets/images/bud5budowa.jpeg';
-import project6 from './assets/images/Nowoczesnybudynekmagazynowy.jpeg';
-import project7 from './assets/images/nowoczesnecentrumkultury.jpeg';
-import project8 from './assets/images/bud6gotowy.jpeg';
-import project9 from './assets/images/bud9budowa.jpeg';
+import project1 from './assets/images/bud1gotowy.jpg';
+import project1Construction from './assets/images/bud1budowa.jpg';
+import project2 from './assets/images/bud2budowa.jpg';
+import project3 from './assets/images/bud3gotowy.jpg';
+import project4 from './assets/images/bud4gotowy.jpg';
+import project5 from './assets/images/bud5budowa.jpg';
+import project6 from './assets/images/Nowoczesnybudynekmagazynowy.jpg';
+import project7 from './assets/images/nowoczesnecentrumkultury.jpg';
+import project8 from './assets/images/bud6gotowy.jpg';
+import project9 from './assets/images/bud9budowa.jpg';
 
 export const IMAGES = {
   // Replace these URLs with local paths (e.g., '/images/hero.jpg') after adding images to public/images/
