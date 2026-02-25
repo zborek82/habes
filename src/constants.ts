@@ -1,0 +1,44 @@
+import project1 from './assets/images/bud1gotowy.jpeg';
+import project1Construction from './assets/images/bud1budowa.jpeg';
+import project2 from './assets/images/bud2budowa.jpeg';
+import project3 from './assets/images/bud3gotowy.jpeg';
+import project4 from './assets/images/bud4gotowy.jpeg';
+import project5 from './assets/images/bud5budowa.jpeg';
+import project6 from './assets/images/Nowoczesnybudynekmagazynowy.jpeg';
+import project7 from './assets/images/nowoczesnecentrumkultury.jpeg';
+import project8 from './assets/images/bud6gotowy.jpeg';
+import project9 from './assets/images/bud9budowa.jpeg';
+
+export const IMAGES = {
+  // Replace these URLs with local paths (e.g., '/images/hero.jpg') after adding images to public/images/
+  
+  // HERO_BG: '/images/hero.jpg',
+  HERO_BG: project1,
+  
+  // ABOUT_BG: '/images/about.jpg',
+  ABOUT_BG: project2,
+  
+  // SERVICES_BG: '/images/services-bg.jpg',
+  SERVICES_BG: project3,
+  
+  // Projects
+  // PROJECT_1: '/images/project1.jpg',
+  PROJECT_1: project1,
+  PROJECT_1_CONSTRUCTION: project1Construction,
+  PROJECT_2: project2,
+  PROJECT_3: project3,
+  PROJECT_4: project4,
+  PROJECT_5: project5,
+  PROJECT_6: project6,
+  PROJECT_7: project7,
+  PROJECT_8: project8,
+  PROJECT_9: project9,
+};
+
+export const COMPANY_INFO = {
+  NAME: 'Habes',
+  FULL_NAME: 'Habes Construction',
+  ADDRESS: 'ul. Południowa 8/1, 39-207 Brzeźnica',
+  PHONE: '14 681 74 65',
+  EMAIL: 'biuro@habes.pl',
+};

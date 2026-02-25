@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" fill="none">
+  <path d="M20 10 L20 40 M20 25 L40 25 M40 10 L40 40" stroke="#ffffff" stroke-width="4" stroke-linecap="square"/>
+  <text x="55" y="35" font-family="Arial, sans-serif" font-weight="bold" font-size="28" fill="#ffffff" letter-spacing="2">HABES</text>
+  <rect x="10" y="5" width="180" height="40" stroke="#2563EB" stroke-width="2" fill="none"/>
+</svg>
